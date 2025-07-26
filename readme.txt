@@ -17,3 +17,9 @@ How to run the Student Management Project using PHP and MySQL
 Admin Credential
 Username: admin
 Password: Test@12345
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+© 2025 Sudarshan Naik
