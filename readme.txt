@@ -12,9 +12,13 @@ How to run the Student Management Project using PHP and MySQL
 
 6. Import studentrecorddb.sql file(given inside the zip package in SQL file folder)
 
-7. Run the script http://localhost/studentrecordms
+Check on live =click or copy this link and check = try to open it on microsoft or brave browser
 
-Admin Credential
+    1] https://studentrecords-sudarshan.rf.gd/login.php
+or
+    2] https://studentrecords-sudarshan.rf.gd
+
+Admin Credential password:-
 Username: admin
 Password: Test@12345
 ---
