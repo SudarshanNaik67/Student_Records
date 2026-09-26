@@ -12,7 +12,7 @@ How to run the Student Management Project using PHP and MySQL
 
 6. Import studentrecorddb.sql file(given inside the zip package in SQL file folder)
 
-Check on live =click or copy this link and check = try to open it on microsoft or brave browser
+Check on LIVE DEMO =click or copy this link and check = try to open it on microsoft or brave browser
 
     1] https://studentrecords-sudarshan.rf.gd/login.php
 or
